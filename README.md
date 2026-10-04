@@ -116,7 +116,7 @@ Catalyst measures the effect of every change with its own tools.
 ## How to install
 
 1. Download `Catalyst-win-Setup.exe` from the
-   [latest release](https://github.com/r3clusionn/catalyst-release/releases/latest).
+   [latest release](https://github.com/r3clusionn/catalyst/releases/latest).
 2. Run it. Catalyst installs for your user account and starts automatically.
 3. Accept the administrator prompt. Catalyst needs administrator rights to change system
    settings, read hardware sensors and set affinities.
@@ -186,7 +186,7 @@ assuming a tweak helps.
 
 ## Support
 
-Report bugs and requests in the [Issues](https://github.com/r3clusionn/catalyst-release/issues)
+Report bugs and requests in the [Issues](https://github.com/r3clusionn/catalyst/issues)
 tab. Include your Windows version, the Catalyst version (shown in the sidebar) and the log at
 `%LocalAppData%\Catalyst\update.log` if the problem is with installing or updating.
 
